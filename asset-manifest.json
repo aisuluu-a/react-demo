@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/form.github.io/static/css/main.63f7f7d7.css",
-    "main.js": "/form.github.io/static/js/main.894b523f.js",
-    "static/js/787.28cb0dcd.chunk.js": "/form.github.io/static/js/787.28cb0dcd.chunk.js",
-    "static/media/desktop.png": "/form.github.io/static/media/desktop.059183eea52640c5068d.png",
-    "static/media/mobile.png": "/form.github.io/static/media/mobile.02ce398270ece1769ebc.png",
-    "index.html": "/form.github.io/index.html",
-    "main.63f7f7d7.css.map": "/form.github.io/static/css/main.63f7f7d7.css.map",
-    "main.894b523f.js.map": "/form.github.io/static/js/main.894b523f.js.map",
-    "787.28cb0dcd.chunk.js.map": "/form.github.io/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/react-demo/static/css/main.467fac57.css",
+    "main.js": "/react-demo/static/js/main.97ffbf81.js",
+    "static/js/787.28cb0dcd.chunk.js": "/react-demo/static/js/787.28cb0dcd.chunk.js",
+    "static/media/desktop.png": "/react-demo/static/media/desktop.059183eea52640c5068d.png",
+    "static/media/mobile.png": "/react-demo/static/media/mobile.02ce398270ece1769ebc.png",
+    "index.html": "/react-demo/index.html",
+    "main.467fac57.css.map": "/react-demo/static/css/main.467fac57.css.map",
+    "main.97ffbf81.js.map": "/react-demo/static/js/main.97ffbf81.js.map",
+    "787.28cb0dcd.chunk.js.map": "/react-demo/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.63f7f7d7.css",
-    "static/js/main.894b523f.js"
+    "static/css/main.467fac57.css",
+    "static/js/main.97ffbf81.js"
   ]
 }
